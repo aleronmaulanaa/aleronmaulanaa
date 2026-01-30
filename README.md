@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Laravel Framework**
 - 🔭 I’m currently interning at **PT Multi Fabrindo Gemilang**
 - 📱 Experienced in developing **mobile applications (Flutter)**
-- 📫 How to reach me: **@aleronmaulanaaa**
-- 💼 LinkedIn: [Aleron Maulana Firjatullah](www.linkedin.com/in/aleron-maulana-firjatullah-037200374)
+- 📫 How to reach me: **[@aleronmaulanaaa](https://www.instagram.com/aleronmaulanaaa)**
+- 💼 LinkedIn: **[Aleron Maulana Firjatullah](www.linkedin.com/in/aleron-maulana-firjatullah-037200374)**
 
 ##### Skills
 
