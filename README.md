@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Laravel Framework**
+<!-- - 🌱 I’m currently learning **Laravel Framework**
 - 🔭 I’m currently interning at **PT Multi Fabrindo Gemilang**
 - 📱 Experienced in developing **mobile applications (Flutter)**
 - 📫 How to reach me: **[@aleronmaulanaaa](https://www.instagram.com/aleronmaulanaaa)**
-- 💼 LinkedIn: **[Aleron Maulana Firjatullah](www.linkedin.com/in/aleron-maulana-firjatullah-037200374)**
+- 💼 LinkedIn: **[Aleron Maulana Firjatullah](www.linkedin.com/in/aleron-maulana-firjatullah-037200374)** -->
+
+I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I bridge the gap between visually stunning design and robust mobile/web development.
+
+- 🚀 **Currently Interning:** Mobile Developer & UI/UX Designer at **PT Multi Fabrindo Gemilang**.
+- 📱 **Featured Project:** Developed **"Smile Multifab"** (Mobile App) from user persona research to coding with Flutter.
+- 🌱 **Learning:** Deep diving into **Laravel** and **Docker Multi-Container** architecture.
 
 ##### Skills
 
