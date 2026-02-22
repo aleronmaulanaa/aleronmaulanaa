@@ -2,11 +2,18 @@
 
 I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I bridge the gap between visually stunning design and robust mobile/web development.
 
+<a href="https://portofolio-aleron-maulana.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<!-- 🌐 Portfolio Website:
+👉 https://portofolio-aleron-maulana.vercel.app/ -->
 - 🚀 **Currently Interning:** Mobile Developer & UI/UX Designer at **PT Multi Fabrindo Gemilang**.
 - 📱 **Featured Project:** Developed **"Smile Multifab"** (Mobile App) from user persona research to coding with Flutter.
 - 🌱 **Learning:** Deep diving into **Laravel** and **Docker Multi-Container** architecture.
 
 ### 📫 Connect with Me
+- 🌐 Portfolio: [portofolio-aleron-maulana.vercel.app](https://portofolio-aleron-maulana.vercel.app/)
 - 💼 LinkedIn: [Aleron Maulana Firjatullah](https://www.linkedin.com/in/aleron-maulana-firjatullah-037200374)
 - 📸 Instagram: [@aleronmaulanaaa](https://www.instagram.com/aleronmaulanaaa)
 - 📧 Email: aleronmaulanaf@gmail.com
