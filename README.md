@@ -79,3 +79,5 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
+
+![My GitHub Game](game.gif)
