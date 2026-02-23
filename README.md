@@ -80,4 +80,11 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aleronmaulanaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleronmaulanaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 ![My GitHub Game](game.gif)
