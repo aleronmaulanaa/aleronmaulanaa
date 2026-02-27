@@ -84,7 +84,12 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,figma,php,supabase,postman,postgres,vercel,mysql,mongodb,laravel)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=firebase,figma,php,supabase,postman,postgres,vercel,mysql,mongodb,laravel,flutter,bootstrap,go)](https://skillicons.dev) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,figma,php,supabase,postman,postgres,vercel,mysql,mongodb,laravel,flutter,bootstrap,go" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aleronmaulanaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -93,7 +98,7 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 
 ###
 
-
+##
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
