@@ -15,12 +15,13 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 - 🌱 **Learning:** Deep diving into **Laravel** and **Docker Multi-Container** architecture.
 
 ### 📫 Connect with Me
+
 - 🌐 Portfolio: [portofolio-aleron-maulana.vercel.app](https://portofolio-aleron-maulana.vercel.app/)
 - 💼 LinkedIn: [Aleron Maulana Firjatullah](https://www.linkedin.com/in/aleron-maulana-firjatullah-037200374)
 - 📸 Instagram: [@aleronmaulanaaa](https://www.instagram.com/aleronmaulanaaa)
 - 📧 Email: aleronmaulanaf@gmail.com
 
-## ⚡ Tech Stack
+## 🛠 Tech Stack & GitHub Analytics
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,go,mongodb,postman,docker,wordpress,bootstrap" />
@@ -31,8 +32,8 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black" />
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -41,13 +42,14 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aleronmaulanaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats-graph.vercel.app/api/top-langs?username=aleronmaulanaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
