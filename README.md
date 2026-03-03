@@ -1,8 +1,6 @@
 ## 🚀Aleron Maulana-GitHub Activity Game
 ![My GitHub Game](game.gif)
 
-<br>
-
 ## 👋Hi, I'm Aleron Maulana
 <p align="center">
 <b>MOBILE DEVELOPMENT</b> &nbsp;|&nbsp; <b>UI/UX DESIGN</b> &nbsp;|&nbsp; <b>WEB DEVELOPMENT</b>
@@ -24,7 +22,6 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 - 💼 LinkedIn: [Aleron Maulana Firjatullah](https://www.linkedin.com/in/aleron-maulana-firjatullah-037200374)
 - 📸 Instagram: [@aleronmaulanaaa](https://www.instagram.com/aleronmaulanaaa)
 - 📧 Email: aleronmaulanaf@gmail.com
-
 <br>
 
 ## 🛠 Tech Stack & GitHub Analytics
