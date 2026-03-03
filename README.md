@@ -13,7 +13,7 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-####
+######
 
 - 🚀 **Currently Interning:** Mobile Developer & UI/UX Designer at **PT Multi Fabrindo Gemilang**.
 - 📱 **Featured Project:** Developed **"Smile Multifab"** (Mobile App) from user persona research to coding with Flutter.
@@ -26,12 +26,6 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 - 📧 Email: aleronmaulanaf@gmail.com
 
 ## 🛠 Tech Stack & GitHub Analytics
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aleronmaulanaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats-graph.vercel.app/api/top-langs?username=aleronmaulanaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,go,mongodb,postman,docker,wordpress,bootstrap" />
@@ -53,7 +47,10 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 </p>
 
 ###
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aleronmaulanaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-graph.vercel.app/api/top-langs?username=aleronmaulanaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 <div align="center">
