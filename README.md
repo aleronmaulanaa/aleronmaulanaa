@@ -1,5 +1,6 @@
 ## 🚀Aleron Maulana-GitHub Activity Game
 ![My GitHub Game](game.gif)
+<br>
 
 ## 👋Hi, I'm Aleron Maulana
 <p align="center">
