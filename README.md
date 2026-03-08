@@ -21,6 +21,7 @@ I am a 5th-semester Informatics Engineering student at Universitas Airlangga. I 
 - 🌐 Portfolio: [portofolio-aleron-maulana.vercel.app](https://portofolio-aleron-maulana.vercel.app/)
 - 💼 LinkedIn: [Aleron Maulana Firjatullah](https://www.linkedin.com/in/aleron-maulana-firjatullah-037200374)
 - 📸 Instagram: [@aleronmaulanaaa](https://www.instagram.com/aleronmaulanaaa)
+- ▶️ YouTube: [Aleron Maulanaa](https://youtube.com/@aleronmaulanaa7135?si=TaOzuHZAaleX4En9)
 - 📧 Email: aleronmaulanaf@gmail.com
 
 ## 🛠 GitHub Analytics & Tech Stack
